@@ -6,6 +6,7 @@ import MovieList from "./components/MovieList";
 function App() {
   return (
     <>
+      <h1>Hello Jagdish Jena</h1>
       <MovieList />
       {/* <MovieList2 /> */}
     </>
